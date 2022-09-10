@@ -1,0 +1,4 @@
+repository "Beat@paperclip2333@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
